@@ -7,6 +7,9 @@ Feature:
   * with phonetic, POS, dialect
   * with example seentences from 4 album (AT1, AT2 Red, and Blue album)
 
+TODO:
+  * <ORIGIN> tag
+
 screenshot:
 
 <a href="http://imgur.com/KokoW5w"><img src="http://i.imgur.com/KokoW5w.gif" title="Hosted by imgur.com" alt="" /></a>
