@@ -9,6 +9,7 @@ Feature:
 
 TODO:
   * "ORIGIN" tag
+  * multiple example sentences
 
 screenshot:
 
