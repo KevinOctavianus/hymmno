@@ -8,7 +8,7 @@ Feature:
   * with example seentences from 4 album (AT1, AT2 Red, and Blue album)
 
 TODO:
-  * <ORIGIN> tag
+  * "ORIGIN" tag
 
 screenshot:
 
