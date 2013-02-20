@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 
+import os
 import csv
+import random
 import StringIO
 from operator import itemgetter
 from operator import attrgetter
@@ -200,5 +202,126 @@ def tomobi_1():
         
     fo.close()
 
-if __name__ == '__main__':
-    tomobi()
+def tomobi_2():
+    hymm_dict = Hymmnos()
+    hymm_dict.read_csv("hymm_test.csv")
+    hymm_dict.SetLabel(['Hymmnos', 'Phonetic', 'POS', 'Meaning-en', 'Dialect'])
+    lexicon = hymm_dict.GetLexicon()
+    label = hymm_dict.GetLabel()
+    
+    fo = open("HymmnoLexicon.tab", "w")
+    for hym in sorted(lexicon.keys()):
+        fo.write("%s\t" % (hym))
+        paragraph = "%s\\n" \
+                    "▪<i><font face='mono'>%s</font></i>\\n" \
+                    "%s\\n" \
+                    "\\n<b>&lt;DIALECT&gt;</b> %s\\n" % (
+            lexicon[hym]["Phonetic"],
+            lexicon[hym]["POS"], lexicon[hym]["Meaning-en"],
+            lexicon[hym]["Dialect"]
+            )
+        fo.write(paragraph + "\n")
+    fo.close()
+    os.system("python2 tab2opf.py -utf HymmnoLexicon.tab")
+    #os.system("wine mobigen HymmnoLexicon.tab")
+
+class HymmnosLyric():
+    def __init__(self):
+        self.lyric = {}
+    
+    def Read(self, path):
+        fi = open(path, "r")
+        
+        data = []
+        for line in fi.readlines():
+            if line.startswith("---"):
+                self.lyric[line.strip("\r\n-")] = data
+                data = []
+            else:
+                data.append(line.strip("\n").split())
+    
+    def GetAlbum(self, song):
+        """
+        return the album
+        """
+        pass
+    
+    def GetLyric(self, song):
+        """
+        return the lyric of song
+        """
+        pass
+    
+    def GetWordPos(self, word, randomize=False, song=None):
+        result = []
+        if not song:
+            items = self.lyric.items()
+            if randomize:
+                random.shuffle(items)
+
+            for song_name, lyr in items:
+                for row_num, row in enumerate(lyr):
+                    if word in row:
+                        result.append((song_name, (row_num, row.index(word))))
+        else:
+            for row_num, row in enumerate(self.lyric[song]):
+                if word in row:
+                    result.append((song, (row_num, row.index(word))))
+    
+        return result
+    
+    def GetPosLyric(self, song, row):
+        """
+        return lyric by row, col
+        """
+        
+        return " ".join(self.lyric[song][row])
+    
+def HymmnosLyricTDD():
+    s = HymmnosLyric()
+    s.Read("wordlist")
+    print s.lyric['Singing Hill']
+    print s.GetWordPos("Wee", "Singing Hill")
+    print s.GetPosLyric("Singing Hill", 10)
+    
+def tomobi_3():
+    hymm_dict = Hymmnos()
+    hymm_dict.read_csv("hymm_test.csv")
+    hymm_dict.SetLabel(['Hymmnos', 'Phonetic', 'POS', 'Meaning-en', 'Dialect'])
+    lexicon = hymm_dict.GetLexicon()
+    label = hymm_dict.GetLabel()
+    
+    hymm_lyr = HymmnosLyric()
+    hymm_lyr.Read("wordlist")
+    
+    fo = open("HymmnoLexicon.tab", "w")
+    for hym in sorted(lexicon.keys()):
+        fo.write("%s\t" % (hym))
+        usage = hymm_lyr.GetWordPos(hym, randomize=True)
+        if usage:
+            usage = "%s&nbsp;&nbsp;—<font size='1'>%s</font>" % (
+                hymm_lyr.GetPosLyric(usage[0][0], usage[0][1][0]),
+                usage[0][0]
+                )
+        
+        paragraph = "%s\\n" \
+                    "▪<i><font face='mono'>%s</font></i>\\n" \
+                    "%s" % (
+            lexicon[hym]["Phonetic"],
+            lexicon[hym]["POS"],
+            lexicon[hym]["Meaning-en"],
+            )
+        
+        if usage:
+            paragraph += ": <i><font color='#404040'>%s</font></i>\\n" % (usage)
+        else:
+            paragraph += "\\n"
+        
+        paragraph += "\\n<b>&lt;DIALECT&gt;</b> %s\\n" % (lexicon[hym]["Dialect"])
+        
+        fo.write(paragraph + "\n")
+    fo.close()
+    os.system("python2 tab2opf.py -utf HymmnoLexicon.tab")
+    #os.system("wine mobigen HymmnoLexicon.tab")
+    
+tomobi_3()
