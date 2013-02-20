@@ -11,6 +11,7 @@ TODO:
   * "ORIGIN" tag
   * multiple example sentences
   * Pastalie's lyric change
+
 screenshot:
 
 <a href="http://imgur.com/KokoW5w"><img src="http://i.imgur.com/KokoW5w.gif" title="Hosted by imgur.com" alt="" /></a>
