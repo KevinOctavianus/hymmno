@@ -2,6 +2,11 @@ Hymmnos Lexicon with mobi format
 
 current version: 0.2
 
+Feature:
+  * mobi format, support cross-platforms. e.g. ebooks: Amazon Kindle, Nook, iPad; smartphone: iPhone, Android etc.
+  * with phonetic, POS, dialect
+  * with example seentences from 4 album (AT1, AT2 Red, and Blue album)
+
 screenshot:
 
 <a href="http://imgur.com/KokoW5w"><img src="http://i.imgur.com/KokoW5w.gif" title="Hosted by imgur.com" alt="" /></a>
