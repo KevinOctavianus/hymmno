@@ -1,6 +1,6 @@
 Hymmnos Lexicon with mobi format
 
-current version: 0.2
+current version: 0.3
 
 Feature:
   * mobi format, support cross-platforms. e.g. ebooks: Amazon Kindle, Nook, iPad; smartphone: iPhone, Android etc.
