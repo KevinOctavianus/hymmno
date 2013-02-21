@@ -1,0 +1,882 @@
+Hymmnos,POS,Phonetic,Meaning-jp,Meaning-en,Dialect
+-,enter,,v.,～に入り込む | enter ~,Central
+0,adjective,[neru/o],0,0,Central Standard Note
+1,adjective,[noi/i],1,1,Central Standard Note
+10,adjective,[deku/de],10,10,Central Standard Note
+100,adjective,[heku/he^],100,100,Central Standard Note
+1000,adjective,[kiku/kii],1000,1000,Central Standard Note
+10000,adjective,[miku/mii],10000,10000,Central Standard Note
+2,adjective,[ji],2,2,Central Standard Note
+3,adjective,[dori],3,3,Central Standard Note
+4,adjective,[fefu],4,4,Central Standard Note
+5,adjective,[vira],5,5,Central Standard Note
+6,adjective,[ikusa],6,6,Central Standard Note
+7,adjective,[heputo],7,7,Central Standard Note
+8,adjective,[okuta],8,8,Central Standard Note
+9,adjective,[nei],9,9,Central Standard Note
+<-x,language construct,[(su)pagu],これ ,(anaphor indicator) ,New Testament of Pastalie
+>>,language construct,,Tras,Tras,Central
+ADDR,language construct,[?],アドレス指定 ,address designation ,Unknown [Unofficial]
+Chronicle Key,n.,,ヒュムノス・クロニクルキー,Chronicle Key (a hymn),Alpha (Eolia)
+D_CELL,language construct,[D serofan],Dセロファン ,D-Cellophane ,Unknown [Unofficial]
+Despedia,n.,,ヒュムノス・デスペディア,Despedia (a hymn),
+Dia,n.,[dia],王、王座、玉座、支配者,"king, throne, ruler",Central Standard Note
+EXA_PICO,noun,[ekusapi^ko],エクサピーコ ,Exa Pico ,Unknown [Unofficial]
+Fou,E.s. I,[fou],ちょっと,A little,Central Standard Note
+Haibanation,n.,[haiba^neshon],ヒュムノス・ハイバーネション,Hibernation (a hymn),Unknown [Unofficial]
+Harmonius,n.,,ヒュムノス・ハーモニウス,Harmonious (a hymn),Central
+Implanta,n.,[imupuranta],"ヒュムノスイムプランタ, 神の大樹, 実","Implanta (a hymn); God's Tree in the myths of Metafalss, fruit, seed",Unknown [Unofficial]
+Linca,n.,[rinka],ヒュムノス・リンカ,Linker (a hymn),Central Standard Note
+Ma,E.s. I,[ma],平常心,presence of mind,Central Standard Note
+Manac,n.,[manaku],真名、魂の名前、御魂名,"true name, name of soul",Cult Ciel Note
+Maoh,n.,,マオ,Rhaplanca's partner in the myths of Metafalss.,Ancient Metafalss
+Meta,noun,[?],? ,Mid-sized mountainous region ,Unknown [Unofficial]
+Metafalica,n.,[metafarika],ヒュムノス・メタファリカ,"Metafalica (a hymn), Song of Hope (to Mir), Song of Creation, Utopia",Metafalss Note
+Nn,E.s. I,[n],無気力状態,lethargy,Central Standard Note
+Paja,n.,[pa^ja],ヒュムノス・パージャ,Purger (a hymn),Central Standard Note
+Phantasmagoria,n.,[fantasumagoria],ヒュムノス・ファンタスマゴリア,Phantasmagoria (a hymn),Alpha Note (EOLIA)
+Re=Nation,n.,[rineishon],ヒュムノス・リネイション,Re-Nation (a hymn),Central Standard Note
+Replekia,n.,,ヒュムノス・レプレキア,Replakia (a hymn),
+Rhaplanca,n.,,ラプランカ,"a goddess from Meta Falss' mythology, and Maoh's partner",Ancient Metafalss
+Rig=Veda,n.,[riguve^da],ヒュムノス・リグヴェーダ,Rigveda (a hymn),Metafalss Note
+Rrha,E.s. I,[ra],トランス状態 (自分の気が正気か否かもわからないくらいトランス状態の時に使う。もっとも、これを使うときは、これ以外の想音を使おうと思えるほど冷静ではないので、自然とこれが口から出てくる。),"trance state (Note: Used only for a trance state in which the emotions of the singer aren't really expressed. Naturally, when this emotion sound is used, it doesn't show the same calm and composure of the other emotion sounds, and it flows by itself from the mouth of the singer)",Central Standard Note
+Sol=Fage,n.,,ヒュムノス・ソルフェージ,Solfege (a hymn),
+Sphilia,n.,,ヒュムノス・スフィリャ,Sphilia (a hymn),
+Sublimation,n.,,ヒュムノス・サブリメーション,"Sublimation (a hymn), sublimation (as in disappear)",
+Suspend,n.,[sasupendo],ヒュムノス・サスペンド,Suspend (a hymn),Central Standard Note
+U-TA,noun,[?],「詩」 ,song ,Unknown [Unofficial]
+VIENA,n.,,ヒュムノスヴィーナ,Viena (a hymn),
+Was,E.S.I,[wasu],とても強烈に（第Ⅰ想音）,very intensely,Central Standard Note
+Wee,E.S.I,[ui],かなり（第Ⅰ想音）,fairly,Central Standard Note
+a.u.k.,E.v.,[auku],be動詞に相当,be,New Testament of Pastalie
+accrroad,v.,[akuro^do],あげる 与える,"give, send",Central Standard Note
+acra,adv.,[akura],きっと、確かに (高い可能性を示す語句),"surely, certainly (Note: Used for expressing something that's highly probable to happen)",Central Standard Note
+adyya,n.,[adei^a],今日・本日,today,Central Standard Note
+afezeria,v.,[afezeria],祝福する,bless,Central Standard Note
+ag,conj.,[agu],そして、～と (and),"and (Note: Equivalent to the English ""and"")",New Testament of Pastalie
+aiph,conj.,[aifu],もし～ならば,if,Central Standard Note
+aje,adj.,[ajie],新しい,new,New Testament of Pastalie
+akata,n.,[akata],物語,story,Central Standard Note
+ale,n.,[a^re],音,sound,New Testament of Pastalie
+alroen,n.,[?],証,"Proof, testimony",Unknown [Unofficial]
+alroetsue,adj.,[auroettoyu^e],贖いの、償いの,"of atonement, of recompense",Metafalss Note
+ammue,n.,[amyu],音、（音の）波動,"sound, sound waves",Cult Ciel Note
+amyure,noun,[?],懺悔 ,"repentance, penitence ",Unknown [Unofficial]
+an,adv.,[an],～と共に,together,Central Standard Note
+anw,prep.,"[anwa , anu]",～を (後ろに来るアルファベットが子音か母音か等、状況によって、最後の発音が変化します。 後ろの単語とつなげて発音した時、より音がきれいに流れる発音を選択してください。),"(direct object marker) (Note: The pronunciation changes depending on if the last letter of the preceeding word was a vowel or consonant. The pronunciation used (""anwa"" or ""anu"") depends on which one the speaker thinks that flows and sounds better with the rest of the phrase)",Metafalss Note
+apea,E.s. (II),[apea],幸せでぽわー,immersed in happiness,Cult Ciel Note
+ar,adj.,[aru],唯一つの,"only, unique",Central Standard Note
+araus,v./n.,[?],取替,exchange,Unknown [Unofficial]
+arhou,n.,[a^fu^],"希望, 恩恵","hope, wish, blessing",New Testament of Pastalie
+arrya,n.,[arya],矢,arrow,Central Standard Note
+arsye,v.,[a^shie],分け合う,share,Central Standard Note
+art,conj.,[aruto],～によって,"because of, by means of",Central Standard Note
+asyar,verb,[?],溶く ,melt into ,Unknown [Unofficial]
+aterra,v./n.,[?],受け入れる,"accept, receive",Unknown [Unofficial]
+ates,v.,[?],受け入れる,"accept, receive",Unknown [Unofficial]
+au,E.s. (II),[au],悲しい,sad,Alpha Note (EOLIA)
+aulla,v.,[aura],開く、開放する、開示する、明かす,"open, disclose, reveal",Central Standard Note
+ayulsa,n.,[ayurusa],"永遠, 永遠に、ずっと続く","eternity, for the eternity, continues forever",New Testament of Pastalie
+balduo,adj.,[barudou^],"暗い、暗黒の、見えない, 闇","dark, of darkness, unable to be seen",New Testament of Pastalie
+bale,n.,[bare],玉,"ball, jewel",Central Standard Note
+bansh,v.,[banshu],（荒々しく扉などを）開く,(violently) open (a door etc.),Central Standard Note
+basilic,n.,[bajiriku],大砲 (大蛇。(転じて)大砲),"big snake, (derivative meanings) gun, cannon",Central Standard Note
+bautifal,adj.,[bateifaru],美しい、綺麗な,beautiful,Central Standard Note
+beja,v.,[beja],汚す,"dirty, defile",Cult Ciel Note
+beng,conj.,[bengu],以前 （時間的に）前,"before (time), ago",Central Standard Note
+bengnuih,n.,[benui],夕刻 夕方 黄昏れ,"evening, dusk",Central Standard Note
+bexm,v.,[bezumu],（時間が）来る、訪れる,come (time),Central Standard Note
+biron,v.,[biron],続く,continue,Central Standard Note
+bister,n.,[bisuteru],獣 野獣,beast,Central Standard Note
+boches,n.,[bochiesu],口,mouth,Central Standard Note
+boh,adj.,[boffu],爆発的な、超常的な,"explosive, supernatural",Metafalss Note
+brinch,n.,[burinku],枝,branch,Central Standard Note
+briyante,n.,[buriiyante],歓喜の声、喜びの声,"voices of delight, voices of joy",Metafalss Note
+briyua,adjective,[?],喜びの ,"happy, joyful ",Unknown [Unofficial]
+burle,adj./n.,[buure],青 青い 蒼,blue,Central Standard Note
+byui,conj.,[?],糾弾,"blame, cause of",Pastalie [Unofficial]
+c.z.,E.v.,[suzu],変化する,transform,New Testament of Pastalie
+calamila,noun,[?],禍い ,catastrophe ,Unknown [Unofficial]
+cause,v.,[kauze],呪う、苦しめる,"curse, torment",Metafalss Note
+cecet,n.,[keketo],盾,shield,Central Standard Note
+ceku,n.,[seku],友・友人・同士・同胞,"friend, comrade, companion, comrade",New Testament of Pastalie
+celetille,adj.,[sereteiru],鮮やかな、新鮮な、美しい、綺麗な,"vivid, clear, fresh, beautiful",Central Standard Note
+celle,adv.,[serure],天高く,heavenly,Central Standard Note
+cenjue,v.,[chienjue],変化する、変える、変更する (chsより強烈であり、強制力の強いもの。既に「願い」ではなく「使役」。正教語であり一般人は使えない。「na」と合わせることで、「逆言」的な効果を持って強固な意志を表現する。),"change, transform (Note: Has stronger connotations than ""chs"". This one doesn't mean the ""wish"" to change, but rather actually changing. It's an orthodox word not used by normal people. If it's preceeded by ""na"", then it takes the opposite meaning: indicating extreme firmness and determination)",Metafalss Note
+cerchio,n.,[chierukio],可能性,possibility,Central Standard Note
+cest,adj./n.,[sesuto],真実の、真の、本当の、真実,"of the true, true, real, truth",Central Standard Note
+cexm,v.,[sezumu],（人や物が）来る、訪れる,"come (person), visit",Central Standard Note
+chanti,n./v.,[shantei],褒める、賞讃する、賞賛,"praise, reward",Central Standard Note
+chess,n./v.,,接吻する,kiss,
+chiess,n./v.,[chiesu],キスする、口づけする、キス,kiss,Central Standard Note
+chs,v.,[chisu],～になる (自分自身の形が完全に変わってしまうとき、もしくはモノの例えとして使う場合はこちら。何かと使われることが多い。),become (Note: Used metaphorically for whenever one wishes to change completely. It has an enormous variety of uses),Central Standard Note
+chsee,v.,[chi^se],～に変化する (自分や対象物に何かがプラスされる、一部変化する、何かが減るといった、部分的な物理変化を意味する。),"transform into ~ (Note: Indicates increase, partial change or reductions on oneself or in the target. In short, it's used to express partial physical change).",Central Standard Note
+chyet,adj.,[shietsu],選ばれた、特別,"chosen, particular",Cult Ciel Note
+cia,n.,[shia],空,sky,New Testament of Pastalie
+ciel,n.,[shie^ru],空、（意訳で）世界,"sky, (translated usually as) world",Central Standard Note
+ciellenne,n.,[shierure^nie],天空,the skies,Central Standard Note
+cietta,conjunction,[?],だって ,"because, but, although ",Unknown [Unofficial]
+clalliss,n./v.,[kurarisu],色、色をつける,color,Central Standard Note
+clamour,n.,[kurama^],膝,"knee, lap",Central Standard Note
+clare,adj.,[kurare],透明な 透き通った,"clear, transparent",Central Standard Note
+clemezen,adj./n.,[kuremuzen],狂気、気が触れた、狂った,"insane, insanity",Central Standard Note
+clyncye,n.,[kurinshie],純粋、無色,"purity, colorlessness",Cult Ciel Note
+coall,verb,[?],還る ,return ,Unknown [Unofficial]
+colga,n.,[kuoruga],氷,ice,Central Standard Note
+colgen,v./adj.,[?],凍った,"freeze, frozen",Unknown [Unofficial]
+coree,preposition,[?],胸の中の ,within my heart ,Unknown [Unofficial]
+corle,noun,[?],かけら ,"shard, fragment ",Unknown [Unofficial]
+corpu,noun,[?],肉体 ,"body, flesh ",Unknown [Unofficial]
+crannidale,v.,[kuranida^re],分かち合う,"share, (possible alternate translation) believe",Metafalss Note
+cremia,"v./n,",[?],救済,salvation,Unknown [Unofficial]
+crown,n.,[?],杯,cup (for beverages),Unknown [Unofficial]
+crudea,n.,[kuru^dea],苦しみ、苦悩,"anguish, suffering",Metafalss Note
+crushue,v.,[kurushu^e],紡ぐ,"spin (fabric), (translated usually as) craft",Metafalss Note
+cupla,n.,[kyupuru],罪,sin,Central Standard Note
+cyuie,adj.,[kyui],切ない、悲しい,"sad, sorrowful",Central Standard Note
+cyurio,n.,[kyurio],理、秩序,"reason, logic, order",Central Standard Note
+d.n.,E.v.,[doun],踊る,dance,New Testament of Pastalie
+d.n.g.,E.v.,[?],穿つ,pierce,Pastalie [Unofficial]
+d.r.s.n.,E.v.,[?],伝えられている,"handed down, passed down, passed on",Pastalie [Unofficial]
+d.s.s.n.,E.v.,[?],解決を求める,accept the atonement,Pastalie [Unofficial]
+d.z.,E.v.,[zu],死ぬ,die,New Testament of Pastalie
+daedu,n.,[daedousu],醜いもの,"eyesore, something ugly",New Testament of Pastalie
+daf,preposition,[?],? ,"for, that ",Unknown [Unofficial]
+dand,n.,[dando],ドア,door,Central Standard Note
+dauan,n.,[dauan],夜明け,dawn,Central Standard Note
+dauane,adj.,[dauane],夜明けの,of the dawn,Central Standard Note
+dazua,n./adj.,[?],闇,"darkness, dark",Pastalie [Unofficial]
+dea,"preposition, particle",[?],~で ,"with, by means of ",Unknown [Unofficial]
+deata,v.,[da^te],裁かれる、裁きをうける、断罪される,"judge, convict, administer judgment",Cult Ciel Note
+deggeez,v./n.,[deiji^zu],裏切る、背く,"betray, disobey, betrayal",Central Standard Note
+degle,v.,[deguru],滅ぼす,"destroy, overthrow, ruin",Cult Ciel Note
+dejuy,n.,[dejui],贖罪,atonement,New Testament of Pastalie
+deleir,n.,[dereia],災い、禍、災厄,"calamity, disaster",Alpha Note (EOLIA)
+delij,v.,[douerijji],嫌う、嫌がる、疎む,"hate, shun, neglect",Alpha Note (EOLIA)
+den,conj.,[den],しかし、でも、けれど、～だが (反対の接続語),"however, but, still, and yet (Note: Connective for opposite sentences)",Central Standard Note
+denera,n.,[denera],悪しきもの,evil one,Central Standard Note
+der,prep.,[dea],～で、によって,"according to, by means of",Metafalss Note
+desfel,adj./v.,[deisuferu],嫌い、厭、厭う、いやがる,"hate, dislike, detestable, unpleasant",Metafalss Note
+dest,verb,[?],滅びる、消滅する ,"destroy, obliterate, bring to an end ",Unknown [Unofficial]
+deu,"preposition, particle",[?],そして、～と ,"thus, therefore, and ",Unknown [Unofficial]
+dewee,v.,[?],跪け,kneel,Unknown [Unofficial]
+dgal,n.,[?],国,"country, land",Pastalie [Unofficial]
+dhezeall,n./adj.,[dei^jiaru],虜囚、虜、捕らわれ人 (囚われの、という形容詞としても使用可),"captive, prisoner, imprisoned",Metafalss Note
+diasee,n.,[deiazuie^],神の子,child of God,Metafalss Note
+didalia,adj.,[daidaria],大きい,large,Cult Ciel Note
+dilete,n.,[deire^te],神の息吹 神の加護 (詩魔法の効能は防御とステータス上昇),"God's breath, God's divine protection (Song Magic effects is defense and status increases)",Central Standard Note
+discest,v./n.,[deisesuto],偽る・偽装する・騙す・偽り (動詞・名詞同形で使用可),"lie, cheat, trick",Central Standard Note
+dius,adj.,[deiusu],尊い、神々しい,"divine, sacred, precious, valuable, sublime, solemn, noble",Cult Ciel Note
+diviega,"n., adj.",[deivie^ga],聖なる剣、(転じて)偉大なる叡智,"sacred sword, (derivative meaning) great wisdom",Cult Ciel Note
+dje,n.,[?],体,body,Pastalie [Unofficial]
+dn,p.,[doun],～で ( 手段。byに相当),"(instrument/location/cause/time marker) (Note: Used to indicate means. Equivalent to the English ""by"").",New Testament of Pastalie
+doodu,n.,[do^dou],大地,"ground, earth",New Testament of Pastalie
+dople,v.,[dopure],排除する,"remove, exclude, reject",Central Standard Note
+dor,n.,[do^ru],大地、大陸,"ground, continent",Central Standard Note
+dorn,n.,[dorun],木,"tree, wood",Central Standard Note
+dornpica,n.,[dourunpika],木の実,"nut, fruit, seed",Cult Ciel Note
+dralee,v./n.,[?],供物,"Offer, offering",Unknown [Unofficial]
+drone,v.,[douro^ne],ダウンロード、取り込む,"download, take in",Central Standard Note
+dsier,n.,[diea],欲望,desire,Central Standard Note
+du,p.,[dou],～を,(direct object marker),New Testament of Pastalie
+dyya,n.,[dei^a],日（英語のDay） (『一日』や『その日』など時間や期間を表す為に用いる。『何日目』の場合はdyyalを参照),"day (Note: Used only for phrases such as ""one day"" or ""that day"". For phrases with aa definite number of days, ""dyyal"" is used instead)",Central Standard Note
+dyyal,n.,[dei^aru],～日目,days (counter suffix),Central Standard Note
+eazas,adj.,[i^zasu],互いに (愛し合う→hartes eazasのように、動詞の後に付けて使う),"mutually (Note: It can be attached to the end of a verb, like this: ""hartes eazas"" -> ""mutual love"")",Central Standard Note
+echrra,v.,[ekura],共鳴する,resonate,Central Standard Note
+ee,v.,[iee],偉大なる、讃える,"exalt, praise",Metafalss Note
+eetor,n.,[etou^],向こう側,other (side/person),Central Standard Note
+eje,n.,[ejie],心、気持ち,"heart, mind, feeling",New Testament of Pastalie
+elle,prep.,[eru],～から、～よりの、～より (fromに近い意味を持つ単語),"from, out of (Note: It's similar in meaning and use to the English ""from"")",Central Standard Note
+elye,adv.,[erie],未だ、まだ,"hitherto, yet",New Testament of Pastalie
+en,conj.,[en],そして、～だから、～ために (英語のandです),"and, because, for (Note: Direct equivalent to the English ""and"")",Central Standard Note
+enclone,v.,[enkuroune],包み込む,wrap up,Metafalss Note
+endia,v.,[endeia],止める、終わらせる,"stop, end",Metafalss Note
+ene,v.,[enu],思う、感慨深くなる,"think, feel deeply",Cult Ciel Note
+enegd,v.,[enegudou],痺れる,become numb,Central Standard Note
+enerel,adv.,[enereru],ずっと,"always, forever",Cult Ciel Note
+enesse,n.,[enesse],想い,emotion,Cult Ciel Note
+engassya,n.,[enga^sha],生け贄,sacrifice,Central Standard Note
+engua,adjective,[?],? ,"predestined, inevitable, unchangeable ",Unknown [Unofficial]
+enne,n.,[enie],祈り、願い（いい意味）,"prayer, request (with good intentions)",Central Standard Note
+enrer,adv.,[enrya],常日頃から、いつも,"always, usually",Cult Ciel Note
+enter,verb,[enteru],〜に入り込む ,enter ,Central Standard Note
+envied,adjective,[?],愚か ,"stupid, idiotic ",Unknown [Unofficial]
+enw,conj.,[en'u],～しながら,while doing ~,Central Standard Note
+erlla,"adjective, adverb",[?],もっと ,"very much, more, further ",Unknown [Unofficial]
+erphy,noun,[?],思い出 ,"memory, rememberance ",Unknown [Unofficial]
+erra,E.s. III,[e^ra],永遠にこのままでいたい,I want this to last eternally,Central Standard Note
+ess,prep.,[e^su],～で (英語のin相当),"(instrument/location/cause/time marker) (Note: Equivalent to the English ""in"")",New Testament of Pastalie
+et,adj.,[e],大きい,large,Central Standard Note
+eta,v.,[e^ta],食べる,eat,Central Standard Note
+etealune,n.,[eterunee],永遠、永久,eternity,Metafalss Note
+eterne,n.,[ete^rune],永遠、永久,eternity,Alpha Note (EOLIA)
+eux,n.,[yukusu],目,eye,Central Standard Note
+ewle,adj.,[?],長い,long,Unknown [Unofficial]
+exali,adj.,[?],眩しい,"radiant, dazzling",Pastalie [Unofficial]
+exec,v.,[eguzeku],実行する,"execute, put into practise",Central Standard Note
+f.p.n.,E.v.,[?],降りしきる,downpour,Pastalie [Unofficial]
+f.r.l.,E.v.,[fururu],怯える,be frightened,New Testament of Pastalie
+f.s.,E.v,[efusu],囁く,"whisper, murmur",New Testament of Pastalie
+f.w.r.,E.v.,[fuuru],受け入れる,accept,New Testament of Pastalie
+f.w.r.n.,E.v.,[fuurun],包みこむ,"surround, enfold",New Testament of Pastalie
+faf,adj.,[fafu],怖い,"scary, frightening",Cult Ciel Note
+faiy,adj.,[?],刹那の,"momentary, transient",Unknown [Unofficial]
+faja,v.,[fa^ja],進む (主に普通に進む場合はこちら。集団で移動する場合はZahha),"advance, make progress (Note: It's used for indicating the advancing of an individual or small groups. For the advancing of large groups, ""Zahha"" it's used instead).",Cult Ciel Note
+falfa,n.,[?],安寧,peace,Unknown [Unofficial]
+famfa,v.,[fanfa],はばたく,"fly, flap wings",Central Standard Note
+fanalea,adj.,[?],高らかに,"loudly, sonorously",Unknown [Unofficial]
+fandel,adj.,[fanderu],数多の、幾多の,"many, in great numbers",Metafalss Note
+fane,n.,[fa^ne],慈愛,"affection, kindness, love",Central Standard Note
+fatele,n.,[fatere^],父,father,Metafalss Note
+fatere,adv.,[fa^tere],さもなくば・そうしなければ～でしょう,if not ~ then probably ~,Central Standard Note
+fau,n.,[fau],鳥 (「小」鳥ではない),bird (Note: not used for small birds),Metafalss Note
+faura,n.,[faura],小鳥、幼い鳥,small/baby bird,Metafalss Note
+fayra,n.,[faira],火、炎,"fire, blaze",Central Standard Note
+fedyya,n.,[fidei^a],明日 (未来の意味でも使用可),"tomorrow (Note: Can also mean ""future"")",Central Standard Note
+fee,n.,[?],風,wind,Unknown [Unofficial]
+ferda,v.,[feruda],宿る,"dwell, live in",Metafalss Note
+fernia,v.,[fe^nya],微笑む,smile,Cult Ciel Note
+fhau,noun,[?],光 ,light ,Unknown [Unofficial]
+fhauri,adjective,[?],光の ,light-borne ,Unknown [Unofficial]
+fhyu,n.,[hyufu],風,wind,Central Standard Note
+firanzia,n.,[?],世の終焉,end of the world,Unknown [Unofficial]
+firga,noun,[?],過去 ,past ,Unknown [Unofficial]
+firle,v.,[firure],感じる,"feel, sense",Metafalss Note
+flare,v.,[furare],浮かぶ 浮く,"float, suspend (in the air)",Central Standard Note
+flip,v.,[furipu],ひっくり返る、フリップフロップ転送コマンド,"reverse, command for flip-flop conversion",Cult Ciel Note
+fluy,n.,[furyui],泉、湧水,"spring, well",Central Standard Note
+focs,adj.,[?],深い,"deep, thick",Unknown [Unofficial]
+fogabe,v.,[fo^geibu],許す,"forgive, allow, pardon",Central Standard Note
+folten,prep.,[foruten],前 （位置、方向を指す）,"before (position/direction), in front of",Central Standard Note
+forgandal,Con.,[fo^gandaru],なぜならば！,Because of...!,Cult Ciel Note
+forlindel,n.,[fo^rinderu],村長の一族,head family of a village,Cult Ciel Note
+forlinden,n.,[fo^rinden],村,village,Cult Ciel Note
+foul,n.,[fouru],不思議、神秘,"wonder, miracle, mystery",Cult Ciel Note
+fountaina,v./adj.,[faunteina],覆う、満たす、埋める (覆うような、など、量や規模を表す形容詞としても同形で使用可),"fill up, cover, hide (Note: It can also be used as an adjective to indicate the amount and scope of something)",Central Standard Note
+fowrlle,v./n.,[fowa^ru],慰める、癒す、慰安,"comfort, heal, relaxation",Central Standard Note
+frawr,n.,[ra^wa],花,flower,Central Standard Note
+frawrle,n.,[rawa^ru],春,spring (season),Cult Ciel Note
+frissoner,v.,[furissonea],震える,shiver,Central Standard Note
+frreie,v.,[?],解き放つ,release,Unknown [Unofficial]
+fs,n.,[fusu],そよ風 (Eをつけると意訳で「ささやき」),"breeze (when it has an ""E"" emotion vowel in front, its meaning changes to ""whisper"").",New Testament of Pastalie
+ftt,v.,[futsu],消える,vanish,Central Standard Note
+fulual,v.,[furuaru],叶う,come true (wish),Central Standard Note
+fusya,v.,[fu^sha],包む,wrap,Central Standard Note
+futare,n.,[futa^re],未来,future,Central Standard Note
+fwal,n./v.,[fuwaru],"翼, 進める, 運ぶ","wing, advance, transport",Cult Ciel Note
+fwilla,n.,,雫,"drop, droplet",
+fwillra,n.,[fira],羽、羽毛、ひとひら (fwalは翼、fwillraは羽や羽毛のひとひら),"feather, plumage, petal (Note: contrary to ""fwal"", which means ""wings"", ""fwirlla"" only refers to the feathers and plumage)",Cult Ciel Note
+g.k.n.,E.v.,[gatsun],たべる,eat,New Testament of Pastalie
+g.v.w.,E.v.,[?],戦う,"fight, battle",Pastalie [Unofficial]
+g.w.f.r.,E.v.,[guufuru],裁く,judge,New Testament of Pastalie
+g.w.n.,Emotion Verb,[?],導く ,"lead, guide ",Pastalie [Unofficial]
+ga,E.s. III,[ga],はやく脱したい,I want this to end soon,Central Standard Note
+gagis,E.s. III,[gyagisu],自分はどうなってもいい,I'm all right like this,Metafalss Note
+ganna,adj./n.,[gana],固い、頑なな、堅牢な、石、岩 (物質・精神両方の意味で「カタイ」ものの表現に使用可。名詞としては石や岩も指す。,"strong, stubborn, solid, stone, rock (Note: It's normally used to indicate the hardness of a material or the stubbornness of a mind. As a noun, it means ""rock"" and ""stone"")",Central Standard Note
+garlden,n.,[garuden],町,town,Central Standard Note
+gasar,n.,[gasaru],ぬいぐるみ,"doll, stuffed animal",New Testament of Pastalie
+gat,n.,[gatto],呪い,curse,Central Standard Note
+gatyunla,n.,[gachunra],呪いの地、地獄,"cursed land, hell",Cult Ciel Note
+gatyuny,n.,[gachuni],呪い,curse,Cult Ciel Note
+gaunji,v.,[?],苛む,"torment, torture",Unknown [Unofficial]
+gauto,noun,[?],暗い空、曇天、暗い曇 ,"dark skies, overcast, dark clouds ",Unknown [Unofficial]
+gauv,n.,[?],罪、咎,"sin, blame",Unknown [Unofficial]
+gauzewiga,v.,[gaunze^vi^ga],絶望する,despair,Metafalss Note
+gaya,E.s. III,[gaya],二度と先の状態に戻りたくない,I never want to go back to how I was before,Central Standard Note
+geeow,n./v.,[gio],誓い、誓う、決意(する),"oath, vow, resolve",Central Standard Note
+getrra,adj.,[gettora],汚れた,"dirty, impure",Central Standard Note
+gfine,noun,[?],時間 ,time ,Unknown [Unofficial]
+gigeadeth,adj./n.,[gigadeisu],鋼鉄の、鉄 (形容詞・名詞同形で使用可),"steel, iron (Note: It can be used both as an adjective and a noun)",Central Standard Note
+giue,n.,[?],体,body,Unknown [Unofficial]
+giz,n./v.,[?],恐怖,"fear, dread, terror",Unknown [Unofficial]
+gkgul,adj.,[gukkuru],ひび割れた,cracked,New Testament of Pastalie
+glansee,adj.,[guranzui],神々しい、偉大な (LYAをつけると意訳で「神」),"divine, exalted (Note: adding ""LYA"" before it changes its meaning to ""God"").",New Testament of Pastalie
+glasden,adj.,[gurasuden],最高,"highest, supreme, most",Metafalss Note
+goa,conj.,[goa],～だけ (only),"only ~ (it's used in the same way as the English ""only"")",New Testament of Pastalie
+gool,adjective,[gu^ru],飢えた ,"starved, parched ",Central Standard Note
+got,v.,[gotto],手に入れる,"get, obtain",Cult Ciel Note
+gott,v,[gotto],離れろ！退け！（汚い感じ）,Get off! Go away! (dirty feeling),Central Standard Note
+govan,adj.,[?],激しい,"violent, excited, vehement, intense",Pastalie [Unofficial]
+govaz,n.,[go^vazu],許嫁,fiancee,Cult Ciel Note
+gral,adj.,[guraru],全て,"all of, entire",New Testament of Pastalie
+gran,v.,[guran],幕を開ける,open the curtain,Cult Ciel Note
+grandee,n.,[gurandeie^],守護者,guardian,Metafalss Note
+grandus,v.,[gurandousu],護る,"defend, protect",Metafalss Note
+granme,E.s. II,[guranme],心に勇気を抱く 護りたいと想う,"Wishing to protect someone, courage",Central Standard Note
+grave,n.,[gureivu],山奥、建物などの奥,"mountain recesses, interior (of a building, etc.)",Cult Ciel Note
+grlanza,v.,[gurantsua],踊る,dance,Central Standard Note
+grow,adjective,[?],傲慢 ,"insolent, arrogant ",Unknown [Unofficial]
+grrena,adj./n.,[gurena],緑 緑色の 碧 (名詞としても使用可. 植物という意味の緑は指さない),"green (Note: It can be used both as a noun and adjective. As a noun, it's used for non-green plants)",Central Standard Note
+grruw,v.,[guruu],育つ,"raise, grow up",Central Standard Note
+guard,n.,[guarudo],守り、防御,protection,Central Standard Note
+guatrz,n.,[go^tsu],怒り、憎悪,"anger, hatred",Central Standard Note
+guaysu,v.,[guaisu],うつむく,"hang one's head (in shame, etc.)",Central Standard Note
+guol,v.,[guoru],（扉などを）閉じる,"close (a door, etc.)",Central Standard Note
+guwo,E.s. II,[guuo],怒る 憤り,"anger, resentment",Central Standard Note
+gyaje,n.,[gyajie],過ち,"error, mistake",Central Standard Note
+gyajlee,n.,[gyajiere],罪人,"criminal, sinner",Cult Ciel Note
+gyas,n.,[gyasu],悪霊、悪い成分,"evil spirit, bad component",Central Standard Note
+gyen,v.,[jien],紡ぐ、（魔法を）生み出す,"spin, craft, create magic",Cult Ciel Note
+gyenel,n.,[jieneru],魔道士,"wizard, mage, sorcerer",Cult Ciel Note
+gyengyat,v.,[jienjatto],むさぼり食う,"devour, lustfully eat",Cult Ciel Note
+gyuss,n.,[gyusu],抱擁,"embrace, hug",Central Standard Note
+gyusya,v.,[gyusha],支配する,"rule, control",Central Standard Note
+h.k.t.t.,E.v.,[hakuto],抱擁する、抱きしめる,"embrace, hug",New Testament of Pastalie
+h.l.s.s.,E.v.,[furusu],嘆く,"grieve, sigh",New Testament of Pastalie
+h.m.m.r.,E.v.,[fumuru],謳う,sing,New Testament of Pastalie
+h.p.p.,E.v.,[fupu],想う,"think, feel",New Testament of Pastalie
+h.p.ps.,E.v.,[fuppusu],思いを馳せる,have (someone) on one's mind,New Testament of Pastalie
+h.r.n.t.,E.v.,[hanto],旅をする,go on a journey,New Testament of Pastalie
+h.w.s.s.,E.v.,[fuusu],成長する,"grow, mature",New Testament of Pastalie
+haf,v.,[hafu],持っている、所有する、手に取る,"have, own, hold",Central Standard Note
+handeres,n./v.,[henderesu],敗北(する)、負け,"defeat, loss",Central Standard Note
+hao,adj.,[hao],上、上位、高位、上級,"above, superior",Central Standard Note
+harmon,v.,[ha^mon],（多数で）合わせて～する,do ~ together (in great numbers),Central Standard Note
+harphe,n.,[harufe],朝,morning,New Testament of Pastalie
+harr,pro.,[haruru],彼女（主語定義）,she,Central Standard Note
+harra,pro.,[harurura],彼女ら（主語定義）,she (plural),Central Standard Note
+hars,n.,[harusu],彼女ら,her (plural),Central Standard Note
+hartes,v.,[ha^tesu],愛する,love,Cult Ciel Note
+harton,n.,[ha^ton],愛,love,Central Standard Note
+has,n.,[hasu],彼女,her,Central Standard Note
+hasyu,n.,[hashu],魚,fish,Central Standard Note
+heath,adj.,[hi^su],灼熱の 高温の,scalding hot,Central Standard Note
+heetha,adj./n.,[hii^sa],健やか、健康,"health, healthy",Central Standard Note
+heighte,v.,[heite],傷つける,"injure, wound",Metafalss Note
+hellei,E.s. II,,,(unknown meaning),
+her,pro.,[ia],これ、この,this,Central Standard Note
+here,adv.,[ia],ここ,here,Central Standard Note
+herr,pro.,[heruru],彼（主語定義）,he,Central Standard Note
+herra,pro.,[herurura],彼ら（主語定義）,he (plural),Central Standard Note
+hers,n.,[he rusu],彼ら,him (plural),Central Standard Note
+hes,n.,[hesu],彼,him,Central Standard Note
+hieg,adj./v.,[hi^gu],悲しむ、悲しみの,"sad, to be sad",Central Standard Note
+hierle,adj./v.,[heiarure^],悲しむ、悲しみの,"sad, to be sad",Metafalss Note
+hiew,n.,[hi^u],哀しみ、悲哀,sadness,New Testament of Pastalie
+hiewi,adj.,[hi^ui],つらい、悲しい,"heart-breaking, sad",New Testament of Pastalie
+hiralg,n.,[?],渇き,thirst,Unknown [Unofficial]
+hopb,n.,[hoppu],心（事象として表現する場合）,"heart, mind (when presenting it as a phenomenon)",Cult Ciel Note
+houd,v.,[houdo],抱く,"embrace, hug",Central Standard Note
+how,conj.,[?],~のように,"how, like ~",Unknown [Unofficial]
+hueaf,adj./n.,[hyafu],無駄な、くだらない、徒労,"futile, useless, worthless, waste of effort",Central Standard Note
+hyear,int.,"[iea , ya]",さあ、やあ、ねえ（呼びかけ語句） (呼びかけや感嘆。非常に軽く発音するとほとんど「や」にしか聴こえない),"hey, you (to get someone's attention) (Note: Used both for admiration and calling. It can be pronounced as ""hyear"" or ""ya"", but generally, ""ya"" is the only way used because of being faster to pronounce)",Central Standard Note
+hyma,v.,[hyuma],（言葉を）聞く,listen (to words),Central Standard Note
+hymma,n.,[hyunma],小鳥 (語源は「奏でる者」でhymmeから来ている。),"small bird (Note: This word originally meant ""music player"", and it originated from ""hymme"").",Central Standard Note
+hymme,v./n.,[hyumu],謳う、奏でる、共鳴する (名詞的使い方をする場合もある。その場合は、波動、波など、形のない振動を指す。),"sing, play (a instrument), resonate (Note: It can be also used as a noun. In that case, it would mean ""waves"", ""waving"", and ""vibration of formless things"").",Central Standard Note
+hymmne,n.,[hyumune],波動、調べ、メロディ (hymmnosよりも軽い、意味的にも浅いもの。),"sound waves, tune, melody (Note: Has lighter connotations than Hymmnos. It actually is used for talking about songs in a more superficial form).",Central Standard Note
+hymmnos,n.,[hyumunosu],詩、ヒュムノス,"song, Hymmnos",Central Standard Note
+hynne,n.,[hyun],声,voice,Central Standard Note
+hyzik,n.,[fijiku],肉体、体,body,Alpha Note (EOLIA)
+i,E.s. II,[i],焦り,impatience,Central Standard Note
+iasien,n.,[iashien],朝露,morning dew,Cult Ciel Note
+ides,n.,[idesu],過去,past,Central Standard Note
+idesy,adj.,[ideshi^],過去の,of the past,Central Standard Note
+ieeya,n.,[i^ya],希望,"hope, wish",Central Standard Note
+iem,n.,[iemu],今,now,Metafalss Note
+infel,n.,[inferu],愛 (infel yor で「ありがとう」という意味に),"love ( Note: ""infel yor"" means ""thank you"")",Metafalss Note
+inferiare,adj.,[inferia^re],親愛なる,beloved,Metafalss Note
+ini,v.,[ini],初期化する、清純化する,"initialize, purify",Cult Ciel Note
+innna,n.,[inna],（精神世界的な）中、心の中,"inside (of the Soulspace), within one's heart",Cult Ciel Note
+irs,v.,[irusu],いる、存在する,exist,Central Standard Note
+j.d.r.,E.v.,[?],囚われる,"aprehend, capture",Pastalie [Unofficial]
+j.l.j.,E.v.,[jierujie],とらわれる、固執する、はまる,"capture, adhere, take in",New Testament of Pastalie
+j.l.r.,E.v.,[ju^ru],我に返る、正気に戻る,"calm down, return to one's self",New Testament of Pastalie
+j.w.,E.v.,[jieu],託す,entrust,New Testament of Pastalie
+j.z.t.,E.v.,[jiezuto],発動する、実行する,"execute, invoke",New Testament of Pastalie
+jam,adv.,[jamu],一緒に,together,Central Standard Note
+jambea,n.,[janbea],足,"foot, leg",Central Standard Note
+jass,v.,[jasu],求める,"seek, request, wish for",Central Standard Note
+jastil,v.,[?],いくぞ！,"Come!, Let's go!",Unknown [Unofficial]
+jefea,adj.,[?],悼ましい,"lamenting, grieving",Unknown [Unofficial]
+jenge,n.,[jienjie],敵,"enemy, rival, opponent",Cult Ciel Note
+jenhah,n.,[jienha^],不幸、災い,"disaster, misfortune",Cult Ciel Note
+jouee,n.,[jue],神の力,God's power,Central Standard Note
+jue,n.,[?],水,water,Pastalie [Unofficial]
+jyel,E.s. II,[jie^ru],寂しい,loneliness,Central Standard Note
+k.f.k.k.,E.v.,[?],嘲笑う,"sneer, ridiculize, scorn",Pastalie [Unofficial]
+k.r.,E.v.,[kuru],戯れる、じゃれ合う,"play, frolic",New Testament of Pastalie
+k.v.n.r.,E.v.,[kevunru],挑む・挑戦する,"challenge, defy",New Testament of Pastalie
+k.v.r.,E.v.,[?],覆う,"cover, wrap",Pastalie [Unofficial]
+kajya,adj.,[kaja],必要,"necessary, needed",New Testament of Pastalie
+kapa,n.,[kapa],水,water,Cult Ciel Note
+karf,particle,[?],その ,"that, these ",Unknown [Unofficial]
+keen,v.,[ke^n],輝く,shine,Central Standard Note
+keenis,n.,[kenisu],輝き,radiance,Central Standard Note
+keg,n.,[kegu],枝,branch,New Testament of Pastalie
+khal,v.,[kuaru],護る,"protect, defend",Central Standard Note
+ki,E.s. II,[ki],真剣、集中,"concentration, focus, seriousness",Central Standard Note
+kiafa,v.,[kiafa],聴く,"hear, listen",Metafalss Note
+kiakkya,noun,[?],なかよし ,friend ,Unknown [Unofficial]
+kiala,"adjective, noun",[?],金 ,"gold, golden ",Unknown [Unofficial]
+kieghl,,,,(unknown meaning),
+kierre,n.,[kie^rre],刻、瞬間,"instant, moment",Metafalss Note
+kil,v.,[kiru],殺す,kill,Central Standard Note
+knawa,v.,[no^wa],知る,know,Central Standard Note
+kneet,adj.,[ni^to],遅い、遅れて、手遅れ,"late, be late, be too late",Central Standard Note
+koffl,verb,[?],飲む ,drink ,Unknown [Unofficial]
+konla,noun,[?],愛 ,love ,Unknown [Unofficial]
+koora,n.,[ko^ra],小川,stream,Central Standard Note
+kouf,n.,[ku^fu],ため息,sigh,New Testament of Pastalie
+ks,v.,[kesu],暗示を掛ける,give a hint,Cult Ciel Note
+kuhle,n.,[kyu^re],毒・毒薬,poison,Central Standard Note
+kvvia,n.,[?],後悔,"regrets, repentance",Unknown [Unofficial]
+kvyeire,n.,[?],"終わり, 終焉","end, ending",Unknown [Unofficial]
+kyll,v.,[?],切る、切られる,"cut, detach",Unknown [Unofficial]
+l.k.k.,E.v.,[?],見上げる,"look up at, admire",Pastalie [Unofficial]
+l.l.n.,E.v.,[ririn],祝福する,bless,New Testament of Pastalie
+l.n.c.a.,E.v.,[runka],繋がる,"tie together, connect",New Testament of Pastalie
+la,pre.,[ra],それこそ （強調する為の冠詞 母音の前）,"*that* (used to emphasize, in front of a vowel sound)",Central Standard Note
+lamenza,n.,[ramentsua^],嘆き,"lament, grief",Metafalss Note
+lamenzeo,"adjective, adverb",[?],嘆きの ,"borne of laments, borne of grief ",Unknown [Unofficial]
+lapo,v.,[rapo],出逢う,"meet (by chance), rendezvous",Cult Ciel Note
+lasye,n.,[rashie],少年,"boy, young man",Central Standard Note
+lau,Emotion Sound (II),[?],慄く ,"fear, dread ",Unknown [Unofficial]
+lautyca,verb,[?],零れてゆく ,fall down ,Unknown [Unofficial]
+layy,adj.,[?],嘘、虚構,"lie, false, imaginary",Unknown [Unofficial]
+leaff,n.,[ri^fu],本、書物、絵本,"book, books, picture book",Metafalss Note
+leat,v.,[ri^],奏でる (謳う（hymme）に近いが、こちらの方が更に比喩的に使われる。),"play (instrument) (Note: It's very similar to the ""singing"" meaning of ""hymme"", but it's used in a much more figurative manner)",Central Standard Note
+lequera,n.,[rikuuira],善きもの,"Gooddoer, good person",Cult Ciel Note
+lhasya,verb,[?],繋がる ,"connect, tie together ",Unknown [Unofficial]
+li,pre.,[ri],それこそ （強調する為の冠詞 子音の前）,"*that* (used to emphasize, in front of a consonant sound)",Central Standard Note
+linen,v.,[ri^nen],語る,"talk, recite",Cult Ciel Note
+lir,n.,[rairu],光,light,Alpha Note (EOLIA)
+lirle,n.,[rire^ru],夏,summer,Cult Ciel Note
+llizz,adv.,[rizu],～かもしれない、ひょっとすると、もしかしたら,"possibly, maybe, perhaps",Central Standard Note
+lof,n.,[rofu],場所,place,Cult Ciel Note
+lonfa,n.,[?],魂,soul,Unknown [Unofficial]
+lornya,noun,[?],はちみつ ,honey ,Unknown [Unofficial]
+loss,adj.,[?],失なわれた、死なった,"dead, lost",Unknown [Unofficial]
+lulurnya,noun,[?],喜び ,"joy, happiness ",Unknown [Unofficial]
+lurrea,v.,[ru^rrea],慄く,fear,Metafalss Note
+lusye,n.,[ru^shie],光,light,Metafalss Note
+lyafre,n.,[ryafure],蝶,butterfly,Cult Ciel Note
+lyrnya,adjective,[?],安らぎ ,"gentle, peaceful ",Unknown [Unofficial]
+lyuma,n.,[ryuma],星 (LYAをつけると意訳で「澪の御子」),"star, planet (Note: if it has a ""LYA"" before it, the meaning changes to ""Maiden of Mio"")",New Testament of Pastalie
+m.a.m.,E.v.,[mamu],存在する,exist,New Testament of Pastalie
+m.f.l.,E.v.,[?],覆いつく,"cover, shroud",Pastalie [Unofficial]
+m.n.g.,E.v.,[ngu],飲み込む,"drink, understand, learn",New Testament of Pastalie
+m.r.r.,E.v.,[?],映す,"reflect, project",Pastalie [Unofficial]
+m.t.y.y.,E.v.,[matoui],作り出す、生み出す,"create, give birth to",New Testament of Pastalie
+maen,n.,[maen],満月,full moon,New Testament of Pastalie
+mahin,n.,[maain],手,hand,Central Standard Note
+manaf,n.,[manafu],命、生命,"life, existence",Metafalss Note
+manafaln,n.,[manafarun],転生,reincarnation,Cult Ciel Note
+manafeeze,v.,[manafi^tsue],生きる,live,Metafalss Note
+maoh,noun,[mao],マオ ,"Maoh, Rhaplanca's partner in Meta Falss mythology  ",Metafalss Note
+marfo,adjective,[?],愛しい ,"beloved, dear ",Unknown [Unofficial]
+marta,n./adj.,[maruta],母,"mother, motherly",Metafalss Note
+maun,n.,[maun],瞼,eyelid,Cult Ciel Note
+maxim,adj./adv.,[makushimu],最も,"most, extremely",Central Standard Note
+maya,n.,[maya],魔法、超自然,"magic, supernatural",Cult Ciel Note
+mea,n.,[mi^a],私,me (object),Central Standard Note
+mean,n.,[mi^n],わたしたち,us (object),Central Standard Note
+meaql,adjective,[?],優しい ,gentle ,Unknown [Unofficial]
+melenas,v.,[merenasu],愛してる、大好きです (人生においてかけがえのない人にしか使わない。),"love, very fond of (Note: Used to talk about the most irreplaceable person to the speaker)",Cult Ciel Note
+melifan,n.,[merifan],歴史,history,Metafalss Note
+melvaz,n.,[meruvazu],花嫁,bride,Cult Ciel Note
+memora,n.,[memo^ra],記憶,memory,Central Standard Note
+meo,n.,[meo],理想,"ideal, dream",Central Standard Note
+merfa,adj./n.,[?],"無垢な, 無垢な願い","pure, pure wishes",Pastalie [Unofficial]
+merra,n.,[?],わたしたち（主語定義）,us (subject),Central Standard Note
+meryu,n.,[meryu],記憶 (Aをつけると「夢（見る方）」に意訳する。),"memory (Note: if it's preceeded by an ""A"" emotion vowel, then its meaning is changed to ""dream"")",New Testament of Pastalie
+meso,v.,[meso],散らかす,"scatter, leave untidy",Central Standard Note
+messe,v.,[messe^],伝える,"report, transmit, convey",Central Standard Note
+milra,noun,[?],? ,fragrance ,Unknown [Unofficial]
+mirie,n.,[?],温かさ,warmth,Pastalie [Unofficial]
+morto,n./v.,[moruto],死 死ぬ,"death, die",Central Standard Note
+murfan,v.,[murufan],想う,"feel, think",Metafalss Note
+murfanare,n.,[murufana^re],想い,"feeling, thought",Metafalss Note
+mutrk,n.,[?],温かさ,warmth,Pastalie [Unofficial]
+n.d.n.,E.v.,[?],伏せる,"lay, put down, hide",Pastalie [Unofficial]
+n.e.g.,Emotion Verb,[?],祈る ,pray ,Pastalie [Unofficial]
+n.m.l.,E.v.,[nmu],染まる,"dye, color",New Testament of Pastalie
+n.t.n.,E.v.,[?],続く,"continue, go on",Pastalie [Unofficial]
+na,adv.,[na],否定、～ではない,"no, not, negation",Central Standard Note
+naave,conj.,[naabe],だから～,because ~,New Testament of Pastalie
+nafa,adj.,[nafa],優しい,"easy, gentle",New Testament of Pastalie
+nafan,adj.,[nafan],優しく,"kind, tender",New Testament of Pastalie
+naflansee,n.,[nafuranzui^],幸せ,"happiness, good fortune",New Testament of Pastalie
+naja,v.,[na^ja],後退する、さがる、逃げ去る、立ち去る,"escape, retreat, disappear, leave",Cult Ciel Note
+near,n.,[niea^],命、生命,life,Central Standard Note
+neath,adjective,[?],灼熱 ,"red hot, scorching ",Unknown [Unofficial]
+nedle,v.,[nidouru],必要とする,need,Alpha Note (EOLIA)
+neee,v.,[nee],呼ぶ,call out,Central Standard Note
+neen,"adjective, adverb",[ni^n],あまりに～すぎる ,"too much, excessive, beyond reason ",Cult Ciel Note
+neia,v.,[neia],近づく、近寄る,"approach, draw near",Central Standard Note
+nene,adj.,[nene],分からない,not understand,Cult Ciel Note
+nepo,v.,[nepo],潤う,moisten,Central Standard Note
+netvear,v.,[netovia],諦める、挫ける、挫折する,"give up, abandon, be discouraged",Central Standard Note
+nezz,n.,[nezu],鼻,nose,Central Standard Note
+nha,v.,[nya],入れる、召喚する (物理的ではない、魔法的な場合に使用する。),"let in, summon (Note: It isn't used to refer to a physical phenomenon, rather, it's for situations were magic is being used)",Cult Ciel Note
+nhaf,adj.,[?],茫然と,"surprised, dazed",Unknown [Unofficial]
+nille,v.,[niru],似ている、類似、似る,"resemble, resemblance, be alike",Central Standard Note
+nnoini,adv.,[noini],初めて、初めての (イニ（初期化）とノイ（１）に由来する),"first (Note: Combination of ""Nnoi"" (1) and ""Ini"" (Initialize))",Central Standard Note
+noce,n.,[no^se],自然,"natural, spontaneous",Cult Ciel Note
+noes,n.,[noisu],自分自身,oneself,Central Standard Note
+noglle,adj./n.,[noguru],黒、黒い,black,Central Standard Note
+nooge,v.,[nu^gu],寝る,sleep,Cult Ciel Note
+nor,pre.,[?],か,"or, either",Unknown [Unofficial]
+nosaash,n.,[no^sasshu],女神,goddess,Cult Ciel Note
+nozess,v.,[no^zesu],無にする、なくす,"lose, get rid of, waste",Central Standard Note
+nuih,n.,[nui],夜,night,Central Standard Note
+num,E.s. II,[namu],無,nothing,Central Standard Note
+nx,n.,[nukusu],次,next,Central Standard Note
+nyamo,"noun, verb",[?],鳴き声、にゃも ,meowing ,Unknown [Unofficial]
+nyamonyas,noun,[?],ともだち ,friend ,Unknown [Unofficial]
+nyanyas,adj.,[?],かわいい,"cute, lovely, darling",Unknown [Unofficial]
+nyasri,E.s. II,[nyasuri],悲しい,sad,Cult Ciel Note
+nyasyamorina,adjective,[?],とてもしあわせ ,very happy ,Unknown [Unofficial]
+ocurp,noun,[?],河口 ,river mouth ,Unknown [Unofficial]
+ogbl,verb,[?],渦巻する ,coil into ,Unknown [Unofficial]
+olo,n.,[oro],夜,night,New Testament of Pastalie
+omness,n.,[?],生命,"life, existence",Unknown [Unofficial]
+omnis,adj.,[omunisu],全てを,everything (direct object),Metafalss Note
+oriye,n.,[oriie],耳,ear,Central Standard Note
+orn,adjective,[?],唯一つの ,"only, sole, unique ",Unknown [Unofficial]
+orviclle,n.,[o^vikuru],問題、障害 (na orviclle:無問題=大丈夫),"problem, question, obstacle (Note: na orviclle can mean ""no problem"" or ""it's okay"").",Central Standard Note
+oter,pre.,[?],~から,out from ~ (note: only used in Hymmnos Spells),Unknown [Unofficial]
+oucc,adv.,[ouku],一緒に,together,New Testament of Pastalie
+oure,pre.,[oure],何よりも,more than anything,Central Standard Note
+ousye,v.,[oushie],襲い掛かる、降りかかる,"launch an attack, fall onto",Alpha Note (EOLIA)
+ouvyu,n.,[ouvuyu],廃墟,ruins,New Testament of Pastalie
+ouwua,adj.,[ouea],たくさんの,"a lot, many, much",New Testament of Pastalie
+oz,pre.,[ozu],～の（所有の助詞） (英語のofと同義（文脈によっては必ずしも必要ではない）,"of (possessive article) (Note: Equivalent to the English ""of"", though depending on context, it isn't always necessary)",Central Standard Note
+p.s.w.t.,E.v.,[pisuuto],掴む・獲得する,"seize, adquire",New Testament of Pastalie
+pagle,v.,[pagure],話す 喋る,"talk, speak with",Central Standard Note
+pak,v.,[paku],（未来が）開く,open (the future),Central Standard Note
+paks,E.s. II,[pakusu],ドキドキ,"excitement, nervouseness",Central Standard Note
+pakz,v.,[pakuzu],分ける,"divide, separate",Cult Ciel Note
+papana,n.,[papana],雨,rain,Cult Ciel Note
+papas,n.,[?],信じること,belief,Unknown [Unofficial]
+papulipua,verb,[?],困る ,"worry, bother ",Unknown [Unofficial]
+parce,n.,[pa^shie],証拠、証,"evidence, proof",Central Standard Note
+parge,v.,[pajie],切り離す (魔法的な場合) (物理的ではない、魔法的な場合に使用する。),"to cut loose (in the case of magic) (Note: It isn't used to refer to a physical phenomenon, rather, it's for situations were magic is being used)",Cult Ciel Note
+parith,adj./n.,[parisu],正直、素直,"honest, sincere",Cult Ciel Note
+pat,v.,[patsu],解放する,"release, set free",Cult Ciel Note
+paul,v.,[pauru],感じる,"feel, sense",Cult Ciel Note
+pauwee,n.,[pauue^],力の子,child of power,Metafalss Note
+pauwel,n.,[pauueru],力,power,Metafalss Note
+pawr,noun,[?],力 ,"power, strength ",Unknown [Unofficial]
+pecee,v.,[pishi],(卵が)孵る、孵化する,"hatch (egg), incubate",Central Standard Note
+phira,n.,[pira],種,"seed, kind",Metafalss Note
+phiz,noun,[fizu],身体 ,body ,Cult Ciel Note
+phyue,n.,[hyuu],おめでとう,congratulations,Central Standard Note
+pic,v.,[piku],気づく、はっとする,"realize, take aback",Central Standard Note
+pikca,n.,[pikka],果物、実,"fruit, nut",New Testament of Pastalie
+pilt,v.,[piruto],気づく,realize,Cult Ciel Note
+pipel,adj./n.,[piperu],筒 筒状の,"pipe, cylindrical",Central Standard Note
+pipit,adj.,[pipitto],僅かな,"only, merely, a little",New Testament of Pastalie
+pirtue,n.,[pirichue],精霊,"spirit, ghost",Metafalss Note
+pitod,adv.,[pitoddo],側に、共に、一緒に,"beside, together",Cult Ciel Note
+plina,n.,[purina],緑（植物） (植物を指して言う場合の『緑』),greenery (plants) (Note: Used only for talking about green plants),Central Standard Note
+poe,n.,[poe],種,"seed, kind",New Testament of Pastalie
+polon,n.,[poron],孤独,"loneliness, solitude",Cult Ciel Note
+pomb,v.,[pomu],生む、産み出す,"give birth, create",Central Standard Note
+pono,n.,[pono],卵,egg,Central Standard Note
+pop,n.,[popu],泡,bubble,New Testament of Pastalie
+porter,v.,[porutea],着る 身に着ける 身に纏う,wear (clothes),Central Standard Note
+prasrity,n./v.,[purasuritei^],繁栄、栄える,"prosperity, prosper",Central Standard Note
+presia,adv.,[pureshia],～します様に、～どうか…して下さい,"may it be so, would you please do ~, please ~",Metafalss Note
+prooth,n.,[puru^su],血,blood,Cult Ciel Note
+pruna,adj.,[?],可笑しい,funny,Unknown [Unofficial]
+ptrapica,n.,[putorapika],宝,treasure,Cult Ciel Note
+ptrapile,n.,[putorapiru],秋,autumn,Cult Ciel Note
+pupe,n.,[pyu^pe],涙,"tear, teardrop",New Testament of Pastalie
+pyuf,verb,[?],目指す ,"head for, head to ",Unknown [Unofficial]
+q.g.s.,E.v.,[?],終る,"end, finish",Pastalie [Unofficial]
+q.l.s.,E.v.,[?],激しく揺らす,shake tremendously,Pastalie [Unofficial]
+qejyu,n.,[kejieu],人々、人間 (Eをつけると意訳で「恋人、妻、旦那」 YEをつけると意訳で「家族、身内」 LYEをつけると「人類皆兄弟」的な意味になる。),"people, humanity (Notes: Preceeded by an ""E"" emotion vowel, the meaning changes to ""lover"" and ""wife/husband"". Preceeded by an ""YE"" emotion vowel, the meaning changes to ""family, relatives, friends"". Preceeded by an ""LYE"" emotion vowel, the meaning changes to ""the grand family of humankind"".)",New Testament of Pastalie
+qoga,n.,[?],終わり、終焉,"end, ending",Unknown [Unofficial]
+qraffa,n.,[kuraffa],葉,leaf,New Testament of Pastalie
+quals,verb,[?],再生 ,"revive, resurrect ",Unknown [Unofficial]
+quel,E.s. II,[kueru],切に想う 必死,"earnestness, desperation",Central Standard Note
+quen,v.,[ku^n],生み出される,"give birth, create",Central Standard Note
+quesa,n.,[kue^sa^],大地を揺らすもの、(転じて)雷鳴、稲妻,"thing that shakes the earth, thunder, lightning",Central Standard Note
+quivale,n.,[kuiba^re],冬,winter,Cult Ciel Note
+quive,n/v.,[kuuiba],沈黙 黙る 静寂,"silence, quietness",Cult Ciel Note
+quowjaz,n.,[kuoujazu],正義,"justice, righteousness",Cult Ciel Note
+r.f.m.,E.v.,[rufun],見る,"see, watch",New Testament of Pastalie
+r.f.r.m.,E.v.,[rufurun],認識する、知る,"know, recognize",New Testament of Pastalie
+r.l.t.y.,E.v.,[?],甦る,"revive, resurrect, rebirth",Pastalie [Unofficial]
+r.w.,E.v.,[ruu],助ける、救う,"help, rescue",New Testament of Pastalie
+ra,E.s. III,[ra],このままでいたい,I want this to last,Central Standard Note
+race,n./v.,[re^su],首飾り（巻きつける）,"(wreathe a) necklace, to wreath",Central Standard Note
+raklya,v.,[rakurya],涙する,"cry, weep",Cult Ciel Note
+rana,v.,[ra^na],駆ける,"run, dash",Central Standard Note
+rannef,n.,[raniefu],謝礼,reward,Central Standard Note
+rasse,v.,[rasse^],エールを送る,to yell,Central Standard Note
+raudl,n.,[raudouru],姿、形、フォーム,"form, shape",New Testament of Pastalie
+rawah,n.,[rawa],花,flower,New Testament of Pastalie
+re,pre,[re],～される（受身の助詞）,(passive verb prefix),Central Standard Note
+reen,v.,[ri^n],聴く,"hear, listen",Central Standard Note
+repoear,n.,[repoea],感謝,"thanks, gratitude",Central Standard Note
+reta,pre.,[reta],どうか～,Please...,New Testament of Pastalie
+rete,n./v.,[rete],忘れる、失念する、忘却,"forget, forgetfulness, oblivion",Cult Ciel Note
+revatail,n.,[re^vateiru],レーヴァテイル,Reyvateil (an artificial life form),Metafalss Note
+reveris,n.,[reberisu],夢魔 悪夢 迷夢,"dream demon, nightmare, delusion",Central Standard Note
+revm,n.,[remu],夢,dream,Central Standard Note
+ridalnae,adj.,[ridaruna^e],かけがえのない,irreplaceable,Metafalss Note
+rifaiah,"adjective, adverb",[?],甦りの ,borne of revival ,Unknown [Unofficial]
+rifaien,v.,[ri^faien],甦る,"resurrect, revive",Metafalss Note
+rinc,v.,[?],同期する,"synchronize, feel the same",Unknown [Unofficial]
+riomo,v.,[rio^mo],(物、状態、状況を)与える 齎す,"to give a, to present a (thing, condition, state)",Cluster Note
+rippllys,n./v.,[ripurisu],返事をする、応答する、返事、応え,"reply, answer",Central Standard Note
+riura,noun,[?],表情、顔 ,"face, facial expression ",Unknown [Unofficial]
+rivire,n.,[rivire],川,river,Central Standard Note
+riya,n.,[?],誠実,sincerity,Unknown [Unofficial]
+rol,conj.,[roru],～のように,"as if, like",Central Standard Note
+roon,noun,[?],館 ,mansion ,Unknown [Unofficial]
+rooshellan,noun,[?],ゆりかご ,cradle ,Unknown [Unofficial]
+rosa,n.,[rosa],薔薇、バラの花,"rose, rose petal",Central Standard Note
+rre,pre,[re],（主語定義）,(subject marker),Central Standard Note
+rudje,adj./n.,[rujie],赤 赤い 紅,"red, scarlet, crimson",Central Standard Note
+ruinie,v.,[ruinie],破壊する,destroy,Central Standard Note
+ruinien,n.,[?],破壊,destruction,Unknown [Unofficial]
+rum,n.,[?],炎,flame,Unknown [Unofficial]
+ryewa,adj.,[riewa],生い茂った,overgrown,New Testament of Pastalie
+ryushe,verb,[?],旅に出る ,depart on a journey ,Unknown [Unofficial]
+ryusse,n.,[ryu^ji^],旅行、旅,"journey, trip",Cult Ciel Note
+s.l.,E.v.,[shiru],信じる,"believe, trust",New Testament of Pastalie
+s.l.y.,E.v.,[?],与える,"give, award, convey",Pastalie [Unofficial]
+s.n.k.k.,E.v.,[sunku],芽吹く,bud (plant),New Testament of Pastalie
+s.s.w.,E.v.,[su^u],言う、告げる、語る,"say, speak, inform",New Testament of Pastalie
+sa,n.,[sa],業 カルマ,karma,Central Standard Note
+saash,n.,[sa^shu],神,"God, gods",Central Standard Note
+sabl,n.,[saburu],砂,sand,Central Standard Note
+sacra,n.,[?],血,blood,Unknown [Unofficial]
+sallogna,v.,[saroguna],寝転ぶ 横たわる 横になる 横にする,"lie down, stretch, rest",Central Standard Note
+sanctum,n.,[sankutoumu],箱舟,ark,Central Standard Note
+sar,n.,[sa^],空 (語呂の問題で、同じ単語が何度も頻出してしまうため、ファンタスマゴリアのためにシュレリアが紡いだワード。),"sky (Note: Word crafted by Shurelia for Phantasmagoria, because of the problem that represented the use of ""ciel"" given its two meanings).",Alpha Note (EOLIA)
+sara,n.,[sara],草,grass,Central Standard Note
+sarla,n.,[sarura],詩,song,Metafalss Note
+sarr,n.,[sa^ru],陽光、輝き,"sunlight, radiance",New Testament of Pastalie
+sarrifis,v.,[sarifisu],（生贄を）捧げる,offer (a sacrifice),Central Standard Note
+sarsa,n.,[sa^sa],雨,rain,New Testament of Pastalie
+sash,v.,[?],散らす,scatter,Unknown [Unofficial]
+sasye,n.,[sashie],少女,"girl, young woman",Central Standard Note
+savath,v.,[sa^basu],ほとばしる,"surge, gush out",Cult Ciel Note
+sechel,n.,[sekeru],都市,city,New Testament of Pastalie
+sefanl,n.,[sefanru],森,forest,New Testament of Pastalie
+selena,v.,[serena],奏でる,play (a instrument),Metafalss Note
+sephaje,n.,[?],創世,creation of the world,Unknown [Unofficial]
+sev,conj.,[sevu],～の時に,"at the time of ~, when ~",New Testament of Pastalie
+sguela,adjective,[?],大切な ,"precious, important ",Unknown [Unofficial]
+shazra,n.,[shazura],荊の蔓、茨、棘 (棘を持つ植物),"thorny vine, thorn, thorny shrub (Note: Used only for plants that have thorns)",Central Standard Note
+sheak,n.,[shieaku],太陽,sun,Cult Ciel Note
+sheaken,n.,[?],左,left,Unknown [Unofficial]
+shefra,n.,[?],創世,creation of the world,Unknown [Unofficial]
+shell,n.,[?],殻（の中）,(inside a) shell,Unknown [Unofficial]
+shellan,n.,[shieran],鳥かご、籠、檻、ケージ,"birdcage, cage, basket, pen",Metafalss Note
+shen,n.,[shien],光,light,Central Standard Note
+shyun,"adjective, noun",[?],哀しみ ,"sadness, grief ",Unknown [Unofficial]
+sial,adj.,[sharu],少しの、ちょっとの,"a bit, a little",Central Standard Note
+siance,n.,[shanshie],聖域、尊い場所、理想郷,"holy land, sanctuary, utopia",New Testament of Pastalie
+siann,n.,[shan],光 (LYAをつけると意訳で「焔の御子」),"light (Note: if it's preceeded by a ""LYA"" emotion vowel, its meaning changes to ""Maiden of Homura"")",New Testament of Pastalie
+sielp,n.,[shierupu],せせらぎ,"brook, murmur",Central Standard Note
+sik,v.,[shiku],離れる,"leave, move away from",Cult Ciel Note
+siss,v.,[?],消す,"erase, put out, eliminate",Unknown [Unofficial]
+skit,v.,[sukitto],約束する,promise,Cult Ciel Note
+slep,v.,[surepu],眠る,sleep,Central Standard Note
+slepir,v.,[surepia],眠らせる、(活動を)停止させる,"put to sleep, stop (an activity)",Metafalss Note
+so,conj.,[?],そんなに、それほど,"in such a way, so much",Unknown [Unofficial]
+soare,n.,[?],"詩, 祈り","song, prayer",Unknown [Unofficial]
+sol,v.,[soru],（日の光が）輝く、燦々と照りつける (ただし、sol cielという熟語でこの世界「ソル・シエール」を指す。ただし標準律では世界を指すときに「ar ciel」といい、「sol ciel」とは言わない。この世界をsol cielと言うのはあくまで古メタファルス律のみ。),"(daylight) shines, shine down brilliantly (Note: However, the phrase ""Sol Ciel"" refers to the region of the first Ar tonelico tower, and was to be used as the name of the world. It's because there was already a phrase in Central Standard Note for this world, ""Ar Ciel"", that ""Sol Ciel"" ended becoming only the name of the region of the first tower. That region owes its name to the Ancient Metafalss Note.)",Metafalss Note
+sonwe,v.,[son'ue],歌う,sing,Metafalss Note
+sor,pro.,[soa],それ,that,Central Standard Note
+sorr it,conj.,,それ,it's that way,
+sorra it,conj.,,それ?牢獄?,"in those ways,",
+sos,conj.,[sosu],～ために,"for, because of, for the sake of",Central Standard Note
+sosar,n.,[sosaru],魔術、魔力 (mayaという魔法を現すヒュムノス語もありますが、そちらよりも、より呪文に特化したイメージです。(mayaは神秘的なニュアンスを含んだ言葉。maya=ミラクル。sosar=ソーサリー…みたいな位置づけ。),"magic, magical power (Note: Even if the magic that manifests through Hymmnos is called ""maya"", actually the spells have a much more specialized image. ""maya"" has a nuance of miracles made by the power of the gods, while sosar... its more similar to standard sorcery).",Central Standard Note
+sphaela,n.,[sufaiera],世界,world,New Testament of Pastalie
+sphilar,n.,[sufi^ra],精神、心,"mind, spirit",Metafalss Note
+spiritum,adj./n.,[supiritoumu],魂 魂の,"soul, of the soul",Central Standard Note
+spitze,n.,[shupittsue],自由,freedom,Central Standard Note
+ssvid,v.,[?],生き凌ぐ,outlive,Unknown [Unofficial]
+stel,v.,[suteru],取る、奪う、盗む (強引に取る場合。負の行動としての取る。),"take, steal, snatch away (Note: Used when one takes something from other person by force. Used usually by the one that lost the stolen thing)",Central Standard Note
+stelled,v.,[suteredo],取り合う、奪い合う (強引に取り合う場合。負の行動としての取る。),"compete, struggle for (Note: Used for fierce battles or competitions. Used usually by the loser.)",Central Standard Note
+suwant,v.,[suwanto],救う、助ける,"save, rescue, help",Central Standard Note
+swant,v.,,助ける、救う,"help, save, rescue",Central
+syalea,n.,[?],決意,"decision, resolve",Unknown [Unofficial]
+syana,"noun, verb",[?],木霊、木霊する ,"echo, resound ",Unknown [Unofficial]
+syast,v.,[shasuto],集う、集結する,"congregate, gather",Central Standard Note
+syec,n.,[seku],深淵、深いところ (物理的ではない、主に「心」やメンタル、精神世界の表現語として使う。),"abyss, depths (Note: Not used to refer to a physical abyss, but rather to a mental one. This word is usually used to represent the Soulspace).",Cult Ciel Note
+syezo,noun,[?],スープ ,soup ,Unknown [Unofficial]
+synk,v.,[shinku],重なる,"overlap, pile up",Central Standard Note
+syunaht,verb,[shunatto],消え去る、消し飛ぶ ,"dissolve, scatter, vanish ",Cult Ciel Note
+t.h.s.,E.v.,[?],外に出る,go outside,Pastalie [Unofficial]
+t.k.d.,v.,[tokuto],届く,reach,New Testament of Pastalie
+t.n.,v.,[toun],止める、やめる,"stop, end",New Testament of Pastalie
+t.n.m.n.,v.,[tonmun],(種を)まく、植える,"scatter (seeds), (to) plant",New Testament of Pastalie
+t.r.m.,v.,[torumu],展開する、咲かせる、実現する,"develop, make bloom, realize",New Testament of Pastalie
+tafane,adj.,[?],輝く,"glittering, sparkling",Pastalie [Unofficial]
+talam,adj.,[ta^ran],東雲色,dawn's color,New Testament of Pastalie
+tanta,v.,[tanta],舞う,dance,Central Standard Note
+tapa,n.,[tapa],水,water,New Testament of Pastalie
+tarfe,v.,[ta^fe],止まる、留まる,"stop, halt",Central Standard Note
+targue,conj.,[ta^gue],たとえ～だとしても,even if ~ is the case,New Testament of Pastalie
+tasyue,v.,[ta^shue],捧げる,"offer, sacrifice",Metafalss Note
+tatakaria,noun,[?],命たち、全ての命 ,"existences, beings, lives ",Unknown [Unofficial]
+tek,v.,[teku],行く,Go,Central Standard Note
+tes,conj.,[tesu],～に、～へ,"at ~, to ~",Central Standard Note
+teyys,v.,[teisu],留まる、残る、居る、居座る (英語のstayと同義),"halt, remain, exist, stay (Note: Equivalent to the English ""stay"")",Central Standard Note
+ther,conj.,[jia],あれ、あの,that,Central Standard Note
+tictim,v.,[teikuteimu],操る、操作する、意のままにする,"control, operate, do as one pleases",Central Standard Note
+tie,conj.,[teie],～に対して（対象を特定・指定する）,in regards to... (specifying a subject),New Testament of Pastalie
+tienar,adverb,[?],止まらない ,"without stopping, without end ",Unknown [Unofficial]
+tilanta,verb,[?],流れこむ ,flow into ,Unknown [Unofficial]
+tim,n.,[?],時,time,Unknown [Unofficial]
+titia,n.,[teiteia],善意、善性,"good will, innate goodness of man",New Testament of Pastalie
+titil,n.,[teiteiru],小物,"small things, accesories",Cult Ciel Note
+titilia,adj.,[teiteiria],小さい,"small, little, tiny",Cult Ciel Note
+toe,"adjective, verb",[?],? ,"rise above, stand over ",Unknown [Unofficial]
+tonelico,n.,[?],神木,"divine tree, (possible alternate meaning: tower)",Unknown [Unofficial]
+tou,conj.,[tou],～に,"at ~, in ~, to ~",Central Standard Note
+touwaka,E.s. II,[touwaka],心に希望を秘める 望む（第Ⅱ想音）,"wishful, hiding wishes in my heart",Central Standard Note
+trina,verb,[?],気づいて ,"notice, become aware ",Unknown [Unofficial]
+ttu,conj.,[tsutou],～するために,in order to do ~,New Testament of Pastalie
+ture,n.,[?],絆,bonds,Unknown [Unofficial]
+tussu,n.,[toussu],変化,change,New Testament of Pastalie
+tyui,adj.,[touyui],小さな,"Small, little, tiny",New Testament of Pastalie
+tyuss,adj.,[?],優しい,"tender, kind",Pastalie [Unofficial]
+ugi,v.,[u^ji],決める,decide,Cult Ciel Note
+uje,adj.,[?],残酷,"cruel, evil",Unknown [Unofficial]
+ujes,n.,[ujiesu],悪意,ill will,New Testament of Pastalie
+unloee,v.,[anroi],平伏す,prostrate before,Central Standard Note
+urgn,n.,[urugun],嘆き,"grief, lamentation",New Testament of Pastalie
+urr,v.,[uru],(見えなかったものが)顕れる、体現(する)、具現化(する),"(something unseen) appears, manifests, incarnates",Central Standard Note
+ut,conj.,[utou],～に、～へ (to),"at ~, to ~ (Note: Equivalent to the English ""to"")",New Testament of Pastalie
+uteu,v.,[uteu],まどろむ,doze off,Cult Ciel Note
+v.a.,v.,[va],生む、紡ぐ,"produce, craft",New Testament of Pastalie
+v.s.k.,v.,[visuku],体感する、実感する。経験する,"sense physically, feel, experience",New Testament of Pastalie
+v.t.,v.,[vutsu],生きる,live,New Testament of Pastalie
+vaffa,verb,[?],掃う ,"clear away, sweep away ",Unknown [Unofficial]
+vale,noun,[?],ベッド ,bed ,Unknown [Unofficial]
+valwa,v.,[baruwa],浄化する,purify,Central Standard Note
+vamue,,,,(unknown meaning),
+van,conj.,[van],～であっても、しようとも,"even if ~, even should ~ happen",Metafalss Note
+varda,n.,[varuda],大樹,big tree,Metafalss Note
+vega,n.,[vega],ここ、この,"here, this",New Testament of Pastalie
+vege,n.,[vejie],そこ、その,"there, that",New Testament of Pastalie
+vianchiel,n./adj.,[vianshie^ru],無垢の、穢れなき、清らかな、美しい,"pure, undefiled, clean, beautiful",Metafalss Note
+viega,n.,[vie^ga],刃、剣,"blade, sword",Metafalss Note
+vigiga,"adjective, noun",[?],冷たく ,cold ,Unknown [Unofficial]
+vinan,n./adj.,[vinan],"白, 白い",white,Central Standard Note
+vine,n.,[vi^ne],酒・果実酒・葡萄酒 (酒精の代名詞),"alcohol, liquor, wine (Note: general pronoun for alcoholic beverages)",Central Standard Note
+viss,v.,[visu],読む、読み取る,"read, read between the lines",Central Standard Note
+vit,v.,[vitto],見る,"see, watch",Cult Ciel Note
+viuy,adj.,[?],暗く翳した,darkened,Unknown [Unofficial]
+vl,conj.,[?],"～から, ～に","since, from, in",Unknown [Unofficial]
+vonn,n./adj.,[von],闇,"dark, darkness",Central Standard Note
+w.f.,v.,[ufu],～したい,want to do ~,New Testament of Pastalie
+w.h.h.,v.,[wou],感じる,"feel, sense",New Testament of Pastalie
+w.n.s.,v.,[unsu],"訪れる, 響く","visit, echo",New Testament of Pastalie
+w.r.l.,v.,[ururu],目指す,"aim at, have an eye on",New Testament of Pastalie
+w.r.m.,v.,[warumu],照らす,"shine on, illuminate",New Testament of Pastalie
+w.s.,v.,[usu],与える,give,New Testament of Pastalie
+w.s.s.,v.,[?],讃える,praise,Pastalie [Unofficial]
+w.w.j.n.c.,v.,[u^janku],共鳴する,"resound, sympathize",New Testament of Pastalie
+wa,E.S.III,[wa],どちらでもない 今、有るがままの状況を受け入れる（第Ⅲ想音）,it doesn't matter - I will accept things the way they are now,Central Standard Note
+waa,E.S.II,[waa],嬉しい(第Ⅱ想音),happy,Metafalss Note
+waath,v.,[wa^su],再生する,"revive, rebirth",Central Standard Note
+waats,adj.,[wa^tsu],大切な,important,Central Standard Note
+wael,n./v.,[wae^ru],喜び,"joy, delight",Central Standard Note
+walaen,n.,[waraen],人生,(human) life,Cult Ciel Note
+walaka,v.,[waraka],歩く,walk,Central Standard Note
+walasye,n.,[wara^shie],人間,"human, people",Cult Ciel Note
+walphish,n.,[warufisshu],人魚 (第一紀に海に住んでいた神),"mermaid, merman (Note: A god/dess that used to live in the oceans during the First Era)",Cult Ciel Note
+warce,v./n.,[wa^shie],祝福(する)、祝い,"bless(ing), celebration",Central Standard Note
+ware,conj.,[wa^re],～の時に、～の中で,"during ~, in the middle of ~",Central Standard Note
+warma,adj.,[wa^ma],温かい,warm,Central Standard Note
+wart,n.,[wa^to],言葉,word,Central Standard Note
+wasara,adj./n.,[wasara],豊か,"abundant, abundance",Central Standard Note
+wase,adj./n.,[ueizu],強烈な,"strong, intense",Cult Ciel Note
+wassa,n.,[wassa],祭典,"festival, feast",Cult Ciel Note
+wassee,v.,[?],讃える,praise,Unknown [Unofficial]
+watt,v.,[watto],びっくりする,"surprise, scare",Cult Ciel Note
+waze,conj.,[?],多,too much,Unknown [Unofficial]
+we,conj.,[ue],～よりも,even more than ~,Central Standard Note
+weak,n.,[uiaku],月,moon,Central Standard Note
+weaken,n.,[?],右,right,Unknown [Unofficial]
+weal,adj./E. s. II,[?],喜び,"happy, glad",Unknown [Unofficial]
+wearequewie,v.,[wa^rekuwaie],望む、願う、希望する,"wish, desire, pray, request for, hope for",Metafalss Note
+weel,v.,[ui^],叶って！,"Come true!, Be realized!",Central Standard Note
+ween,conj.,[uin],～の中に、中で（状態を表す助詞） (英語のinと同義（文脈によっては必ずしも必要ではない）),"inside of ~, in ~ (particle to indicate current condition) (Note: Equivalent to the English ""in"", though it's not always necessary, depending on the context)",Central Standard Note
+wefa,adj.,[?],暖かな,"warm, mild",Pastalie [Unofficial]
+werllra,n.,[uirura],涙、雫,"tear, drop",Metafalss Note
+werlwe,v.,[uiruue],泣く、涙する,"cry, shed tears",Metafalss Note
+whai,conj.,[fai],なぜ～ なのだろう,why,Central Standard Note
+whalt,conj.,[?],何,what,Unknown [Unofficial]
+wharn,n.,[wa^n],腕,arm,Central Standard Note
+whou,conj.,[fou],～する者,"who, person who ~",Central Standard Note
+wi,conj.,[ui],その、そこの,"that, the one there",Central Standard Note
+wiaa,,,,(unknown meaning),
+wiene,n.,[?],音色,"melody, tone, timbre",Unknown [Unofficial]
+willie,adj.,[uiri],弱い、儚い,"weak, transient",Central Standard Note
+wim,n.,[uimu],娘,"girl, daughter",Central Standard Note
+windiling,n.,[?],風の精,spirit of the wind,Unknown [Unofficial]
+wirtamarls,"adjective, noun",[?],静か ,"tranquil, tranquility ",Unknown [Unofficial]
+wis,v.,[visu],～である,"be, is",Metafalss Note
+wol,E.S.II,[voru],猛進、熱血（第Ⅱ想音）,"fervor, rush",Central Standard Note
+won,conj.,[uon],～の上（表面）に（状態を表す助詞） (英語のonと同義),"above (on the surface) of ~ (particle to indicate current condition) (Note: Equivalent to the English ""on"")",Central Standard Note
+x.,E.v.,[zu],(主語動詞),(subject marker),New Testament of Pastalie
+x.y.n.,E.v.,[?],傷つく,"hurt, injure",Pastalie [Unofficial]
+xava,n.,[?],傷,wound,Unknown [Unofficial]
+xe,conj./v.,[ji],給え (より塔に尊敬の感情を明確に伝えたい場合に使用する。 例：xe khal(護り給え) あまり常用される単語ではない。),"please (used before a verb), bestow, grant, receive (Note: Used when someone wants to state a feeling of great respect for the tower. Example: xe khal (please, protect me) It's not a daily used word)",Cluster Note
+xel,conj.,[?],～から（時間）,since ~ (time),Unknown [Unofficial]
+xest,v.,[zesuto],変換する,"change, transform",Cult Ciel Note
+xevxl,n.,[?],絶望,despair,Unknown [Unofficial]
+xl,conj.,[kuseru],～の時から,ever since ~,Central Standard Note
+xorg,adj.,[?],傲慢な,proud,Unknown [Unofficial]
+y.m.q.,v.,[yanku],実る,"bear fruit, ripen",New Testament of Pastalie
+y.y.,v.,[yaya],癒す,"heal, cure",New Testament of Pastalie
+y.z.t.,v.,[yazutto],願う,"wish, desire, request",New Testament of Pastalie
+yaha,v.,[yaha],笑う,"laugh, smile",Central Standard Note
+yanje,adv.,[yanie],ずっと、永遠に,"forever, eternally",Central Standard Note
+yant,E.s.II,[yanto],恐慌状態（第Ⅱ想音）,"frightened, scared",Metafalss Note
+yanwe,v.,[yan'ue],大事にする,treat with care,Central Standard Note
+yanyaue,adj.,[yanyaue],大切な,"important, valuable",Metafalss Note
+yart,v.,[ya^to],出逢う,"meet (by chance), come across",Central Standard Note
+yaserwe,v.,[yasa^ue],リラックスする、安らぐ,"relax, feel at ease",Central Standard Note
+yasra,adj.,[yasura],優しい、穏やか,"gentle, kind, calm, quiet",Metafalss Note
+yassa,v.,[yassa],クリアする、達成する,"clear, achieve",Central Standard Note
+yatse,v.,[yasse],（肯定的な感情を）与える,give (positive emotions),Central Standard Note
+yea,E.s.II,[iea],嬉しい（第Ⅱ想音）,happy,Central Standard Note
+yeal,n.,[ie^a],線、紐,"line, beam, wire, string",Cult Ciel Note
+yeeel,adj.,[ie^ru],遠い,"far, distant",Cult Ciel Note
+yehah,n.,[ieha^],幸せ,"happiness, good fortune",Central Standard Note
+yehar,v.,[ieha^ru],解放する、解き放つ,"deallocate, unleash, release",Metafalss Note
+yerwe,v.,[ie^ue],鳴く,"chirp, bark, purr",Metafalss Note
+yesse,verb,[?],育む ,"rear, raise ",Unknown [Unofficial]
+yetere,adv.,[ie^tere],そうすれば～,"if so, in that case",Central Standard Note
+yor,n.,[yoa],あなた,you (object),Central Standard Note
+yora,n.,[yora],あなたたち,you (plural object),Central Standard Note
+yorr,n.,[yoruru],あなた（主語定義）,you (subject),Central Standard Note
+yorra,n.,[yorurura],あなたたち（主語定義）,you (plural subject),Central Standard Note
+yos,adv.,[yosu],貴方が、貴方の,"your, yours",Central Standard Note
+yosyua,v.,[yoshua],～を慰める,"comfort, console, amuse",Central Standard Note
+yuez,adv.,[yueze],互いに,"mutually, reciprocally",Central Standard Note
+yulun,verb,[?],とかす ,"dissolve, homogenise ",Unknown [Unofficial]
+yura,n.,[yura],力のバランス,balance of power,Central Standard Note
+z.z.x.,v.,[zui^kusu],絶望する,(to) despair,New Testament of Pastalie
+zaam,noun,[?],海原 ,"sea, ocean ",Unknown [Unofficial]
+zadius,n.,[zadeiusu],憎悪,hatred,Metafalss Note
+zaffur,v.,[?],対抗、あがき,"struggle, oppose",Unknown [Unofficial]
+zahha,v.,[zahha],進む、進行 (騎士隊のように、大勢で行軍するときに用いる。勇敢な様。),"advance, improve (Note: Used for the marching of a great number of people, such as knight company. Has heroic connotations).",Cult Ciel Note
+zalez,n.,[za^rezu],滝,waterfall,New Testament of Pastalie
+zarle,v.,[za^ru],(雨が)降る、降り注ぐ,"fall (rain), downpour",Central Standard Note
+zarnn,n.,[?],嵐,"storm, tempest",Unknown [Unofficial]
+zash,adj./n.,[zasshu],痛い、苦痛,"painful, pain, agony",Central Standard Note
+zassyen,v.,[zasshien],泳ぐ,swim,Central Standard Note
+zauve,n./adj.,[za^be],怜悧な,"clever, sagacious",Cult Ciel Note
+zeeth,n.,[ji^zu],鎖,"chain, chains",Central Standard Note
+zenva,v.,[tsuenva],飛び越える、超越する,"jump over, clear, transcend",Central Standard Note
+zess,adv.,[zesu],～ように,like ~,New Testament of Pastalie
+zethpa,v.,[zesupa],斬りつける,"cut, slash",Central Standard Note
+zetsfy,n.,[zettsufai],残酷,"cruelty, harshness",Cult Ciel Note
+zixxa,noun,[?],意地 ,"attitude, disposition, spirit ",Unknown [Unofficial]
+zodal,n./v.,[zodaru],死せる、死の,"death, die, of death",Metafalss Note
+zodaw,n.,[zodau],死,death,Metafalss Note
+zuieg,n./adj.,[zuui^gu],権力、権限,"(political) power, authority, influence",Alpha Note (EOLIA)
+zweie,E.s.II,[tsuvaie],決意を心に秘める 真摯（第Ⅱ想音）,"hiding determination in the heart, sincerity, earnestness",Central Standard Note
+zwihander,n./v.,[tsuvaihenderu],勝利(する)、勝ち,"success, win, triumph, victory",Central Standard Note
+zz,adv.,[zu^],否定,"negation, denial, un-",New Testament of Pastalie
